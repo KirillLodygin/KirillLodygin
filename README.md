@@ -1,6 +1,6 @@
 ## Hello, I'm Kirill Lodygin
 
-### I'm a beginner front-end developer
+### I'm a front-end developer
 
 <br/>
 
